@@ -1,0 +1,2 @@
+# Music-Contest
+simple project
